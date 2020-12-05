@@ -1,0 +1,6 @@
+ping:
+  ping: "&6SpartaCube &8➤ &fTon ping: &a%ping%ms"
+  ping-player: "&6SpartaCube &8➤ &fPing de &a%target%: &a%ping%ms"
+  not-found: "&6SpartaCube &8➤ &cLe joueur est introuvable!"
+
+  
